@@ -6,8 +6,6 @@ When ran with the basename of a config file as an argument, this utility will lo
 
 Reference conf/test.conf for a sample configuration.
 
-![GnuPG](//upload.wikimedia.org/wikipedia/commons/a/a3/GnuPG-Logo.svg)  ![Perl](//upload.wikimedia.org/wikipedia/en/a/a4/Onion_64x64.png)
-
 ### GnuPG requirements
 
 The perl [GnuPG](https://metacpan.org/pod/GnuPG) library only works with gnupg1, whereas most modern systems now ship with gnupg2.
